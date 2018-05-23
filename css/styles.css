@@ -1,0 +1,28 @@
+body {
+  font-family: sans-serif;
+}
+
+.about-me h2 {
+  font-size: 30px;
+  color: skyblue;
+}
+
+.about-me p {
+  color: navy;
+}
+
+.blog1 {
+  color: orange;
+  border: 2px dashed purple;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.blog2 {
+  color: darkgreen;
+  border: 2px dashed crimson;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
